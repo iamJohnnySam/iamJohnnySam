@@ -1,4 +1,5 @@
 ### Hi there 👋
+Check out my website http://iamjohnnysam.com/ to see a portfolio of all my hobby projects.
 
 <!--
 **iamJohnnySam/iamJohnnySam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
